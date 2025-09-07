@@ -13,6 +13,7 @@ import os
 from pathlib import Path
 from datetime import timedelta
 from dotenv import load_dotenv
+import dj_database_url
 
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
@@ -89,16 +90,10 @@ WSGI_APPLICATION = "djbackend.wsgi.application"
 # https://docs.djangoproject.com/en/5.2/ref/settings/#databases
 
 DATABASES = {
-    "default": {
-        "ENGINE": "django.db.backends.postgresql",
-        "NAME": os.environ.get("POSTGRES_DB"),
-        "USER": os.environ.get("POSTGRES_USER"),
-        "PASSWORD": os.environ.get("POSTGRES_PASSWORD"),
-        "HOST": os.environ.get("POSTGRES_HOST"),
-        "PORT": os.environ.get("POSTGRES_PORT"),
-    }
+    "default": dj_database_url.config(
+        default=os.environ.get("DATABASE_URL")
+    )
 }
-
 
 # Password validation
 # https://docs.djangoproject.com/en/5.2/ref/settings/#auth-password-validators
