@@ -1,0 +1,89 @@
+from django.db import migrations
+
+def seed_governors(apps, schema_editor):
+    Leader = apps.get_model("kyl", "Leader")
+    County = apps.get_model("kyl", "County")
+    Position = apps.get_model("kyl", "Position")
+
+    
+    governor_position, _ = Position.objects.get_or_create(name="Women Rep")
+
+    women_rep = [
+    {"county": "Mombasa", "name": "Zamzam Mohamed", "party": "ODM"},
+    {"county": "Kwale", "name": "Fatuma Masito", "party": "ODM"},
+    {"county": "Kilifi", "name": "Gertrude Mwanyanje", "party": "ODM"},
+    {"county": "Tana River", "name": "Amina Dika", "party": "KANU"},
+    {"county": "Lamu", "name": "Muthoni Marubu", "party": "JP"},
+    {"county": "Taita-Taveta", "name": "Lydia Haika", "party": "UDA"},
+    {"county": "Garissa", "name": "Edo Udgoon Siyad", "party": "Jubilee"},
+    {"county": "Wajir", "name": "Fatuma Abdi Jehow", "party": "ODM"},
+    {"county": "Mandera", "name": "Ummul Kheir Khassim", "party": "UDM"},
+    {"county": "Marsabit", "name": "Naomi Waqo", "party": "UDA"},
+    {"county": "Isiolo", "name": "Mumina Gollo Bonaya", "party": "Jubilee"},
+    {"county": "Meru", "name": "Elizabeth Kailemia Karambu", "party": "UDA"},
+    {"county": "Tharaka-Nithi", "name": "Susan Ngugi", "party": "TSP"},
+    {"county": "Embu", "name": "Pamela Njeru", "party": "UDA"},
+    {"county": "Kitui", "name": "Irene Kasalu", "party": "Wiper"},
+    {"county": "Machakos", "name": "Joyce Kamene Kasimbi", "party": "Wiper"},
+    {"county": "Makueni", "name": "Rose Museo", "party": "Wiper"},
+    {"county": "Nyandarua", "name": "Faith Gitau", "party": "UDA"},
+    {"county": "Nyeri", "name": "Rahab Mukami", "party": "UDA"},
+    {"county": "Kirinyaga", "name": "Jane Njeri Maina", "party": "UDA"},
+    {"county": "Murang’a", "name": "Betty Maina", "party": "UDA"},
+    {"county": "Kiambu", "name": "Anne Wamuratha", "party": "UDA"},
+    {"county": "Turkana", "name": "Cecilia Asinyen", "party": "UDA"},
+    {"county": "West Pokot", "name": "Rael Aleutum", "party": "KUP"},
+    {"county": "Samburu", "name": "Pauline Lenguris", "party": "UDA"},
+    {"county": "Trans Nzoia", "name": "Lillian Siyoi", "party": "UDA"},
+    {"county": "Uasin Gishu", "name": "Gladys Boss Shollei", "party": "UDA"},
+    {"county": "Elgeyo-Marakwet", "name": "Caroline Jeptoo Ngelechei", "party": "Independent"},
+    {"county": "Nandi", "name": "Cynthia Muge", "party": "UDA"},
+    {"county": "Baringo", "name": "Florence Sergon", "party": "UDA"},
+    {"county": "Laikipia", "name": "Jane Kagiri", "party": "UDA"},
+    {"county": "Nakuru", "name": "Liza Chelule", "party": "UDA"},
+    {"county": "Narok", "name": "Rebecca Tonkei", "party": "UDA"},
+    {"county": "Kajiado", "name": "Leah Sopiato", "party": "UDA"},
+    {"county": "Kericho", "name": "Beatrice Kemei", "party": "UDA"},
+     {"county": "Bomet", "name": "Linet Toto", "party": "UDA"},
+    {"county": "Kakamega", "name": "Elsie Muhanda", "party": "ODM"},
+    {"county": "Vihiga", "name": "Beatrice Adagala", "party": "ANC"},
+    {"county": "Bungoma", "name": "Catherine Wambilianga", "party": "FORD-Kenya"},
+    {"county": "Busia", "name": "Catherine Omanyo", "party": "ODM"},
+    {"county": "Siaya", "name": "Christine Ombaka", "party": "ODM"},
+    {"county": "Kisumu", "name": "Ruth Odinga", "party": "ODM"},
+    {"county": "Homa Bay", "name": "Joyce Osogo", "party": "ODM"},
+    {"county": "Migori", "name": "Fatuma Mohamed", "party": "Independent"},
+    {"county": "Kisii", "name": "Dorice Aburi", "party": "Wiper"},
+    {"county": "Nyamira", "name": "Jerusha Momanyi", "party": "Jubilee"},
+    {"county": "Nairobi", "name": "Esther Passaris", "party": "ODM"},
+]
+
+
+    objs = []
+    for g in women_rep:
+        try:
+            county = County.objects.get(name__iexact=g["county"])
+            objs.append(Leader(
+                name=g["name"],
+                party=g["party"],
+                position=governor_position,
+                county=county
+            ))
+        except County.DoesNotExist:
+            print(f"County {g['county']} not found in DB, skipping...")
+
+    Leader.objects.bulk_create(objs, ignore_conflicts=True)
+
+def unseed_governors(apps, schema_editor):
+    Leader = apps.get_model("kyl", "Leader")
+    Leader.objects.filter(position__name="Women Rep").delete()
+
+class Migration(migrations.Migration):
+
+    dependencies = [
+        ("kyl", "0001_initial"),
+    ]
+
+    operations = [
+        migrations.RunPython(seed_governors, reverse_code=unseed_governors),
+    ]

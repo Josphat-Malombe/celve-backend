@@ -1,0 +1,3246 @@
+[
+{
+  "model": "kyl.county",
+  "pk": 1,
+  "fields": {
+    "name": "Mombasa"
+  }
+},
+{
+  "model": "kyl.county",
+  "pk": 2,
+  "fields": {
+    "name": "Kwale"
+  }
+},
+{
+  "model": "kyl.county",
+  "pk": 3,
+  "fields": {
+    "name": "Kilifi"
+  }
+},
+{
+  "model": "kyl.county",
+  "pk": 4,
+  "fields": {
+    "name": "Tana River"
+  }
+},
+{
+  "model": "kyl.county",
+  "pk": 5,
+  "fields": {
+    "name": "Lamu"
+  }
+},
+{
+  "model": "kyl.county",
+  "pk": 6,
+  "fields": {
+    "name": "Taita Taveta"
+  }
+},
+{
+  "model": "kyl.county",
+  "pk": 7,
+  "fields": {
+    "name": "Garissa"
+  }
+},
+{
+  "model": "kyl.county",
+  "pk": 8,
+  "fields": {
+    "name": "Wajir"
+  }
+},
+{
+  "model": "kyl.county",
+  "pk": 9,
+  "fields": {
+    "name": "Mandera"
+  }
+},
+{
+  "model": "kyl.county",
+  "pk": 10,
+  "fields": {
+    "name": "Marsabit"
+  }
+},
+{
+  "model": "kyl.county",
+  "pk": 11,
+  "fields": {
+    "name": "Isiolo"
+  }
+},
+{
+  "model": "kyl.county",
+  "pk": 12,
+  "fields": {
+    "name": "Meru"
+  }
+},
+{
+  "model": "kyl.county",
+  "pk": 13,
+  "fields": {
+    "name": "Tharaka-Nithi"
+  }
+},
+{
+  "model": "kyl.county",
+  "pk": 14,
+  "fields": {
+    "name": "Embu"
+  }
+},
+{
+  "model": "kyl.county",
+  "pk": 15,
+  "fields": {
+    "name": "Kitui"
+  }
+},
+{
+  "model": "kyl.county",
+  "pk": 16,
+  "fields": {
+    "name": "Machakos"
+  }
+},
+{
+  "model": "kyl.county",
+  "pk": 17,
+  "fields": {
+    "name": "Makueni"
+  }
+},
+{
+  "model": "kyl.county",
+  "pk": 18,
+  "fields": {
+    "name": "Nyandarua"
+  }
+},
+{
+  "model": "kyl.county",
+  "pk": 19,
+  "fields": {
+    "name": "Nyeri"
+  }
+},
+{
+  "model": "kyl.county",
+  "pk": 20,
+  "fields": {
+    "name": "Kirinyaga"
+  }
+},
+{
+  "model": "kyl.county",
+  "pk": 21,
+  "fields": {
+    "name": "Murang'a"
+  }
+},
+{
+  "model": "kyl.county",
+  "pk": 22,
+  "fields": {
+    "name": "Kiambu"
+  }
+},
+{
+  "model": "kyl.county",
+  "pk": 23,
+  "fields": {
+    "name": "Turkana"
+  }
+},
+{
+  "model": "kyl.county",
+  "pk": 24,
+  "fields": {
+    "name": "West Pokot"
+  }
+},
+{
+  "model": "kyl.county",
+  "pk": 25,
+  "fields": {
+    "name": "Samburu"
+  }
+},
+{
+  "model": "kyl.county",
+  "pk": 26,
+  "fields": {
+    "name": "Trans Nzoia"
+  }
+},
+{
+  "model": "kyl.county",
+  "pk": 27,
+  "fields": {
+    "name": "Uasin Gishu"
+  }
+},
+{
+  "model": "kyl.county",
+  "pk": 28,
+  "fields": {
+    "name": "Elgeyo-Marakwet"
+  }
+},
+{
+  "model": "kyl.county",
+  "pk": 29,
+  "fields": {
+    "name": "Nandi"
+  }
+},
+{
+  "model": "kyl.county",
+  "pk": 30,
+  "fields": {
+    "name": "Baringo"
+  }
+},
+{
+  "model": "kyl.county",
+  "pk": 31,
+  "fields": {
+    "name": "Laikipia"
+  }
+},
+{
+  "model": "kyl.county",
+  "pk": 32,
+  "fields": {
+    "name": "Nakuru"
+  }
+},
+{
+  "model": "kyl.county",
+  "pk": 33,
+  "fields": {
+    "name": "Narok"
+  }
+},
+{
+  "model": "kyl.county",
+  "pk": 34,
+  "fields": {
+    "name": "Kajiado"
+  }
+},
+{
+  "model": "kyl.county",
+  "pk": 35,
+  "fields": {
+    "name": "Kericho"
+  }
+},
+{
+  "model": "kyl.county",
+  "pk": 36,
+  "fields": {
+    "name": "Bomet"
+  }
+},
+{
+  "model": "kyl.county",
+  "pk": 37,
+  "fields": {
+    "name": "Kakamega"
+  }
+},
+{
+  "model": "kyl.county",
+  "pk": 38,
+  "fields": {
+    "name": "Vihiga"
+  }
+},
+{
+  "model": "kyl.county",
+  "pk": 39,
+  "fields": {
+    "name": "Bungoma"
+  }
+},
+{
+  "model": "kyl.county",
+  "pk": 40,
+  "fields": {
+    "name": "Busia"
+  }
+},
+{
+  "model": "kyl.county",
+  "pk": 41,
+  "fields": {
+    "name": "Siaya"
+  }
+},
+{
+  "model": "kyl.county",
+  "pk": 42,
+  "fields": {
+    "name": "Kisumu"
+  }
+},
+{
+  "model": "kyl.county",
+  "pk": 43,
+  "fields": {
+    "name": "Homa Bay"
+  }
+},
+{
+  "model": "kyl.county",
+  "pk": 44,
+  "fields": {
+    "name": "Migori"
+  }
+},
+{
+  "model": "kyl.county",
+  "pk": 45,
+  "fields": {
+    "name": "Kisii"
+  }
+},
+{
+  "model": "kyl.county",
+  "pk": 46,
+  "fields": {
+    "name": "Nyamira"
+  }
+},
+{
+  "model": "kyl.county",
+  "pk": 47,
+  "fields": {
+    "name": "Nairobi"
+  }
+},
+{
+  "model": "kyl.position",
+  "pk": 1,
+  "fields": {
+    "name": "Governor"
+  }
+},
+{
+  "model": "kyl.position",
+  "pk": 2,
+  "fields": {
+    "name": "Deputy Governor"
+  }
+},
+{
+  "model": "kyl.position",
+  "pk": 3,
+  "fields": {
+    "name": "Senator"
+  }
+},
+{
+  "model": "kyl.position",
+  "pk": 4,
+  "fields": {
+    "name": "Women Rep"
+  }
+},
+{
+  "model": "kyl.position",
+  "pk": 5,
+  "fields": {
+    "name": "MP"
+  }
+},
+{
+  "model": "kyl.position",
+  "pk": 6,
+  "fields": {
+    "name": "President"
+  }
+},
+{
+  "model": "kyl.position",
+  "pk": 7,
+  "fields": {
+    "name": "Deputy President"
+  }
+},
+{
+  "model": "kyl.position",
+  "pk": 8,
+  "fields": {
+    "name": "MCA"
+  }
+},
+{
+  "model": "kyl.constituency",
+  "pk": 1,
+  "fields": {
+    "name": "Westlands",
+    "county": 47
+  }
+},
+{
+  "model": "kyl.constituency",
+  "pk": 2,
+  "fields": {
+    "name": "Dagoretti North",
+    "county": 47
+  }
+},
+{
+  "model": "kyl.constituency",
+  "pk": 3,
+  "fields": {
+    "name": "Dagoretti South",
+    "county": 47
+  }
+},
+{
+  "model": "kyl.constituency",
+  "pk": 4,
+  "fields": {
+    "name": "Lang’ata",
+    "county": 47
+  }
+},
+{
+  "model": "kyl.constituency",
+  "pk": 5,
+  "fields": {
+    "name": "Kibra",
+    "county": 47
+  }
+},
+{
+  "model": "kyl.constituency",
+  "pk": 6,
+  "fields": {
+    "name": "Roysambu",
+    "county": 47
+  }
+},
+{
+  "model": "kyl.constituency",
+  "pk": 7,
+  "fields": {
+    "name": "Kasarani",
+    "county": 47
+  }
+},
+{
+  "model": "kyl.constituency",
+  "pk": 8,
+  "fields": {
+    "name": "Ruaraka",
+    "county": 47
+  }
+},
+{
+  "model": "kyl.constituency",
+  "pk": 9,
+  "fields": {
+    "name": "Embakasi South",
+    "county": 47
+  }
+},
+{
+  "model": "kyl.constituency",
+  "pk": 10,
+  "fields": {
+    "name": "Embakasi North",
+    "county": 47
+  }
+},
+{
+  "model": "kyl.constituency",
+  "pk": 11,
+  "fields": {
+    "name": "Embakasi Central",
+    "county": 47
+  }
+},
+{
+  "model": "kyl.constituency",
+  "pk": 12,
+  "fields": {
+    "name": "Embakasi East",
+    "county": 47
+  }
+},
+{
+  "model": "kyl.constituency",
+  "pk": 13,
+  "fields": {
+    "name": "Embakasi West",
+    "county": 47
+  }
+},
+{
+  "model": "kyl.constituency",
+  "pk": 14,
+  "fields": {
+    "name": "Makadara",
+    "county": 47
+  }
+},
+{
+  "model": "kyl.constituency",
+  "pk": 15,
+  "fields": {
+    "name": "Kamukunji",
+    "county": 47
+  }
+},
+{
+  "model": "kyl.constituency",
+  "pk": 16,
+  "fields": {
+    "name": "Starehe",
+    "county": 47
+  }
+},
+{
+  "model": "kyl.constituency",
+  "pk": 17,
+  "fields": {
+    "name": "Mathare",
+    "county": 47
+  }
+},
+{
+  "model": "kyl.constituency",
+  "pk": 18,
+  "fields": {
+    "name": "Mavoko",
+    "county": 16
+  }
+},
+{
+  "model": "kyl.constituency",
+  "pk": 19,
+  "fields": {
+    "name": "Machakos Town",
+    "county": 16
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 1,
+  "fields": {
+    "name": "Johnson Sakaja",
+    "party": "UDA",
+    "position": 1,
+    "constituency": null,
+    "county": 47
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 2,
+  "fields": {
+    "name": "James Njoroge Muchiri",
+    "party": "UDA",
+    "position": 2,
+    "constituency": null,
+    "county": 47
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 3,
+  "fields": {
+    "name": "Edwin Sifuna",
+    "party": "ODM",
+    "position": 3,
+    "constituency": null,
+    "county": 47
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 4,
+  "fields": {
+    "name": "Esther Passaris",
+    "party": "ODM",
+    "position": 4,
+    "constituency": null,
+    "county": 47
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 5,
+  "fields": {
+    "name": "Tim Wanyonyi",
+    "party": "ODM",
+    "position": 5,
+    "constituency": 1,
+    "county": 47
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 6,
+  "fields": {
+    "name": "Beatrice Elachi",
+    "party": "ODM",
+    "position": 5,
+    "constituency": 2,
+    "county": 47
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 7,
+  "fields": {
+    "name": "John Kiarie (KJ)",
+    "party": "UDA",
+    "position": 5,
+    "constituency": 3,
+    "county": 47
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 8,
+  "fields": {
+    "name": "Felix Odiwuor (Jalang’o)",
+    "party": "ODM",
+    "position": 5,
+    "constituency": 4,
+    "county": 47
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 9,
+  "fields": {
+    "name": "Peter Orero",
+    "party": "ODM",
+    "position": 5,
+    "constituency": 5,
+    "county": 47
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 10,
+  "fields": {
+    "name": "James Gakuya",
+    "party": "UDA",
+    "position": 5,
+    "constituency": 6,
+    "county": 47
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 11,
+  "fields": {
+    "name": "Ronald Karauri",
+    "party": "Independent",
+    "position": 5,
+    "constituency": 7,
+    "county": 47
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 12,
+  "fields": {
+    "name": "Tom Kajwang’",
+    "party": "ODM",
+    "position": 5,
+    "constituency": 8,
+    "county": 47
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 13,
+  "fields": {
+    "name": "Julius Mawathe",
+    "party": "Wiper",
+    "position": 5,
+    "constituency": 9,
+    "county": 47
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 14,
+  "fields": {
+    "name": "James Gakuya",
+    "party": "UDA",
+    "position": 5,
+    "constituency": 10,
+    "county": 47
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 15,
+  "fields": {
+    "name": "Benjamin Gathiru (Mejjadon)",
+    "party": "UDA",
+    "position": 5,
+    "constituency": 11,
+    "county": 47
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 16,
+  "fields": {
+    "name": "Paul Ongili (Babu Owino)",
+    "party": "ODM",
+    "position": 5,
+    "constituency": 12,
+    "county": 47
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 17,
+  "fields": {
+    "name": "Mark Mwenje",
+    "party": "Jubilee",
+    "position": 5,
+    "constituency": 13,
+    "county": 47
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 18,
+  "fields": {
+    "name": "George Aladwa",
+    "party": "ODM",
+    "position": 5,
+    "constituency": 14,
+    "county": 47
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 19,
+  "fields": {
+    "name": "Yusuf Hassan",
+    "party": "Jubilee",
+    "position": 5,
+    "constituency": 15,
+    "county": 47
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 20,
+  "fields": {
+    "name": "Amos Mwago",
+    "party": "Jubilee",
+    "position": 5,
+    "constituency": 16,
+    "county": 47
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 21,
+  "fields": {
+    "name": "Anthony Oluoch",
+    "party": "ODM",
+    "position": 5,
+    "constituency": 17,
+    "county": 47
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 22,
+  "fields": {
+    "name": "Patrick Makau",
+    "party": "Wiper Party",
+    "position": 5,
+    "constituency": 18,
+    "county": 16
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 23,
+  "fields": {
+    "name": "Wavinya Ndeti",
+    "party": "Wiper Party",
+    "position": 1,
+    "constituency": null,
+    "county": 16
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 24,
+  "fields": {
+    "name": "Simon Kachapin",
+    "party": "UDA",
+    "position": 1,
+    "constituency": null,
+    "county": 24
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 25,
+  "fields": {
+    "name": "Lati Lelelit",
+    "party": "UDA",
+    "position": 1,
+    "constituency": null,
+    "county": 25
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 26,
+  "fields": {
+    "name": "George Natembeya",
+    "party": "DAP-K",
+    "position": 1,
+    "constituency": null,
+    "county": 26
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 27,
+  "fields": {
+    "name": "Jonathan Bii",
+    "party": "UDA",
+    "position": 1,
+    "constituency": null,
+    "county": 27
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 28,
+  "fields": {
+    "name": "Wesley Rotich",
+    "party": "UDA",
+    "position": 1,
+    "constituency": null,
+    "county": 28
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 29,
+  "fields": {
+    "name": "Stephen Sang",
+    "party": "UDA",
+    "position": 1,
+    "constituency": null,
+    "county": 29
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 30,
+  "fields": {
+    "name": "Benjamin Cheboi",
+    "party": "UDA",
+    "position": 1,
+    "constituency": null,
+    "county": 30
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 31,
+  "fields": {
+    "name": "Susan Kihika",
+    "party": "UDA",
+    "position": 1,
+    "constituency": null,
+    "county": 32
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 32,
+  "fields": {
+    "name": "Hillary Barchok",
+    "party": "UDA",
+    "position": 1,
+    "constituency": null,
+    "county": 36
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 33,
+  "fields": {
+    "name": "Wilberforce Ottichilo",
+    "party": "ODM",
+    "position": 1,
+    "constituency": null,
+    "county": 38
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 34,
+  "fields": {
+    "name": "Kenneth Lusaka",
+    "party": "Ford-K",
+    "position": 1,
+    "constituency": null,
+    "county": 39
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 35,
+  "fields": {
+    "name": "Paul Otwuoma",
+    "party": "ODM",
+    "position": 1,
+    "constituency": null,
+    "county": 40
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 36,
+  "fields": {
+    "name": "James Orengo",
+    "party": "ODM",
+    "position": 1,
+    "constituency": null,
+    "county": 41
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 37,
+  "fields": {
+    "name": "Anyang’ Nyong’o",
+    "party": "ODM",
+    "position": 1,
+    "constituency": null,
+    "county": 42
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 38,
+  "fields": {
+    "name": "Gladys Wanga",
+    "party": "ODM",
+    "position": 1,
+    "constituency": null,
+    "county": 43
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 39,
+  "fields": {
+    "name": "Ochilo Ayacko",
+    "party": "ODM",
+    "position": 1,
+    "constituency": null,
+    "county": 44
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 40,
+  "fields": {
+    "name": "Simba Arati",
+    "party": "ODM",
+    "position": 1,
+    "constituency": null,
+    "county": 45
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 41,
+  "fields": {
+    "name": "Amos Nyaribo",
+    "party": "UPA",
+    "position": 1,
+    "constituency": null,
+    "county": 46
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 42,
+  "fields": {
+    "name": "Abdullswamad Sheriff Nassir",
+    "party": "ODM",
+    "position": 1,
+    "constituency": null,
+    "county": 1
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 43,
+  "fields": {
+    "name": "Cecily Mbarire",
+    "party": "UDA",
+    "position": 1,
+    "constituency": null,
+    "county": 14
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 44,
+  "fields": {
+    "name": "Nathif Jama Adam",
+    "party": "ODM",
+    "position": 1,
+    "constituency": null,
+    "county": 7
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 45,
+  "fields": {
+    "name": "Andrew Mwadime",
+    "party": "Independent",
+    "position": 1,
+    "constituency": null,
+    "county": 6
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 47,
+  "fields": {
+    "name": "Fatuma Achani",
+    "party": "UDA",
+    "position": 1,
+    "constituency": null,
+    "county": 2
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 48,
+  "fields": {
+    "name": "Gideon Mung’aro",
+    "party": "ODM",
+    "position": 1,
+    "constituency": null,
+    "county": 3
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 49,
+  "fields": {
+    "name": "Dhadho Godhana",
+    "party": "ODM",
+    "position": 1,
+    "constituency": null,
+    "county": 4
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 50,
+  "fields": {
+    "name": "Issa Abdallah Timamy",
+    "party": "ANC",
+    "position": 1,
+    "constituency": null,
+    "county": 5
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 51,
+  "fields": {
+    "name": "Ahmed Abdullahi",
+    "party": "ODM",
+    "position": 1,
+    "constituency": null,
+    "county": 8
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 52,
+  "fields": {
+    "name": "Mohamed Adan Khalif",
+    "party": "UDM",
+    "position": 1,
+    "constituency": null,
+    "county": 9
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 54,
+  "fields": {
+    "name": "Mohamud Ali",
+    "party": "ODM",
+    "position": 1,
+    "constituency": null,
+    "county": 10
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 55,
+  "fields": {
+    "name": "Abdi Hassan Guyo",
+    "party": "Jubilee",
+    "position": 1,
+    "constituency": null,
+    "county": 11
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 56,
+  "fields": {
+    "name": "Kawira Mwangaza",
+    "party": "Independent",
+    "position": 1,
+    "constituency": null,
+    "county": 12
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 57,
+  "fields": {
+    "name": "Muthomi Njuki",
+    "party": "UDA",
+    "position": 1,
+    "constituency": null,
+    "county": 13
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 58,
+  "fields": {
+    "name": "Cecily Mbarire",
+    "party": "UDA",
+    "position": 1,
+    "constituency": null,
+    "county": 14
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 59,
+  "fields": {
+    "name": "Julius Malombe",
+    "party": "Wiper Party",
+    "position": 1,
+    "constituency": null,
+    "county": 15
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 60,
+  "fields": {
+    "name": "Wavinya Ndeti",
+    "party": "Wiper Party",
+    "position": 1,
+    "constituency": null,
+    "county": 16
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 61,
+  "fields": {
+    "name": "Mutula Kilonzo",
+    "party": "Wiper Party",
+    "position": 1,
+    "constituency": null,
+    "county": 17
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 62,
+  "fields": {
+    "name": "Moses Badilisha Kiarie",
+    "party": "UDA",
+    "position": 1,
+    "constituency": null,
+    "county": 18
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 63,
+  "fields": {
+    "name": "Mutahi Kahiga",
+    "party": "UDA",
+    "position": 1,
+    "constituency": null,
+    "county": 19
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 64,
+  "fields": {
+    "name": "Anne Waiguru",
+    "party": "UDA",
+    "position": 1,
+    "constituency": null,
+    "county": 20
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 66,
+  "fields": {
+    "name": "Irungu Kang’ata",
+    "party": "UDA",
+    "position": 1,
+    "constituency": null,
+    "county": 21
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 67,
+  "fields": {
+    "name": "Kimani Wamatangi",
+    "party": "UDA",
+    "position": 1,
+    "constituency": null,
+    "county": 22
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 68,
+  "fields": {
+    "name": "Jeremiah Lomurkai",
+    "party": "ODM",
+    "position": 1,
+    "constituency": null,
+    "county": 23
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 69,
+  "fields": {
+    "name": "Simon Kachapin",
+    "party": "UDA",
+    "position": 1,
+    "constituency": null,
+    "county": 24
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 70,
+  "fields": {
+    "name": "Joshua Irungu",
+    "party": "UDA",
+    "position": 1,
+    "constituency": null,
+    "county": 31
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 71,
+  "fields": {
+    "name": "Patrick Ole Ntutu",
+    "party": "UDA",
+    "position": 1,
+    "constituency": null,
+    "county": 33
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 72,
+  "fields": {
+    "name": "Joseph Ole Lenku",
+    "party": "ODM",
+    "position": 1,
+    "constituency": null,
+    "county": 34
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 73,
+  "fields": {
+    "name": "Dr. Erick Kipkoech Mutai",
+    "party": "UDA",
+    "position": 1,
+    "constituency": null,
+    "county": 35
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 74,
+  "fields": {
+    "name": "Fernandes Barasa",
+    "party": "ODM",
+    "position": 1,
+    "constituency": null,
+    "county": 37
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 75,
+  "fields": {
+    "name": "Mohamed Faki Mwinyihaji",
+    "party": "ODM",
+    "position": 3,
+    "constituency": null,
+    "county": 1
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 76,
+  "fields": {
+    "name": "Issa Boy Juma",
+    "party": "ODM",
+    "position": 3,
+    "constituency": null,
+    "county": 2
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 77,
+  "fields": {
+    "name": "Stewart Madzayo",
+    "party": "ODM",
+    "position": 3,
+    "constituency": null,
+    "county": 3
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 78,
+  "fields": {
+    "name": "Danson Mungatana",
+    "party": "UDA",
+    "position": 3,
+    "constituency": null,
+    "county": 4
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 79,
+  "fields": {
+    "name": "Joseph Githuku",
+    "party": "Jubilee",
+    "position": 3,
+    "constituency": null,
+    "county": 5
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 80,
+  "fields": {
+    "name": "Abdulkadir Haji",
+    "party": "Jubilee",
+    "position": 3,
+    "constituency": null,
+    "county": 7
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 81,
+  "fields": {
+    "name": "Abbas Sheikh",
+    "party": "UDM",
+    "position": 3,
+    "constituency": null,
+    "county": 8
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 82,
+  "fields": {
+    "name": "Ali Roba",
+    "party": "UDM",
+    "position": 3,
+    "constituency": null,
+    "county": 9
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 83,
+  "fields": {
+    "name": "Mohamed Said Chute",
+    "party": "UDA",
+    "position": 3,
+    "constituency": null,
+    "county": 10
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 84,
+  "fields": {
+    "name": "Fatuma Adan Dulo",
+    "party": "Jubilee",
+    "position": 3,
+    "constituency": null,
+    "county": 11
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 85,
+  "fields": {
+    "name": "Kathuri Murungi",
+    "party": "UDA",
+    "position": 3,
+    "constituency": null,
+    "county": 12
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 86,
+  "fields": {
+    "name": "Alexander Mundigi",
+    "party": "DP",
+    "position": 3,
+    "constituency": null,
+    "county": 14
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 87,
+  "fields": {
+    "name": "Enock Wambua",
+    "party": "Wiper",
+    "position": 3,
+    "constituency": null,
+    "county": 15
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 88,
+  "fields": {
+    "name": "Agnes Kavindu",
+    "party": "Wiper",
+    "position": 3,
+    "constituency": null,
+    "county": 16
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 89,
+  "fields": {
+    "name": "Daniel Maanzo",
+    "party": "Wiper",
+    "position": 3,
+    "constituency": null,
+    "county": 17
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 90,
+  "fields": {
+    "name": "John Methu",
+    "party": "UDA",
+    "position": 3,
+    "constituency": null,
+    "county": 18
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 91,
+  "fields": {
+    "name": "Wahome Wamatinga",
+    "party": "UDA",
+    "position": 3,
+    "constituency": null,
+    "county": 19
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 92,
+  "fields": {
+    "name": "Kamau Murango",
+    "party": "UDA",
+    "position": 3,
+    "constituency": null,
+    "county": 20
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 93,
+  "fields": {
+    "name": "Karungo Thang’wa",
+    "party": "UDA",
+    "position": 3,
+    "constituency": null,
+    "county": 22
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 94,
+  "fields": {
+    "name": "James Lomenen Ekomwa",
+    "party": "Upya Party",
+    "position": 3,
+    "constituency": null,
+    "county": 23
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 95,
+  "fields": {
+    "name": "Julius Murgor",
+    "party": "UDA",
+    "position": 3,
+    "constituency": null,
+    "county": 24
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 96,
+  "fields": {
+    "name": "Steve Lelegwe",
+    "party": "UDA",
+    "position": 3,
+    "constituency": null,
+    "county": 25
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 97,
+  "fields": {
+    "name": "Allan Chesang",
+    "party": "UDA",
+    "position": 3,
+    "constituency": null,
+    "county": 26
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 98,
+  "fields": {
+    "name": "Jackson Mandago",
+    "party": "UDA",
+    "position": 3,
+    "constituency": null,
+    "county": 27
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 99,
+  "fields": {
+    "name": "Samson Cherargei",
+    "party": "UDA",
+    "position": 3,
+    "constituency": null,
+    "county": 29
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 100,
+  "fields": {
+    "name": "William Cheptumo",
+    "party": "UDA",
+    "position": 3,
+    "constituency": null,
+    "county": 30
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 101,
+  "fields": {
+    "name": "John Kinyua",
+    "party": "UDA",
+    "position": 3,
+    "constituency": null,
+    "county": 31
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 102,
+  "fields": {
+    "name": "Tabitha Karanja",
+    "party": "UDA",
+    "position": 3,
+    "constituency": null,
+    "county": 32
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 103,
+  "fields": {
+    "name": "Ledama Olekina",
+    "party": "ODM",
+    "position": 3,
+    "constituency": null,
+    "county": 33
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 104,
+  "fields": {
+    "name": "Samuel Seki",
+    "party": "UDA",
+    "position": 3,
+    "constituency": null,
+    "county": 34
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 105,
+  "fields": {
+    "name": "Aaron Cheruiyot",
+    "party": "UDA",
+    "position": 3,
+    "constituency": null,
+    "county": 35
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 106,
+  "fields": {
+    "name": "Hillary Sigei",
+    "party": "UDA",
+    "position": 3,
+    "constituency": null,
+    "county": 36
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 107,
+  "fields": {
+    "name": "Boni Khalwale",
+    "party": "UDA",
+    "position": 3,
+    "constituency": null,
+    "county": 37
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 108,
+  "fields": {
+    "name": "Godfrey Osotsi",
+    "party": "ODM",
+    "position": 3,
+    "constituency": null,
+    "county": 38
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 109,
+  "fields": {
+    "name": "Moses Wetang’ula",
+    "party": "FORD-Kenya",
+    "position": 3,
+    "constituency": null,
+    "county": 39
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 110,
+  "fields": {
+    "name": "Okiya Omtatah",
+    "party": "NRA",
+    "position": 3,
+    "constituency": null,
+    "county": 40
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 111,
+  "fields": {
+    "name": "Oburu Odinga",
+    "party": "ODM",
+    "position": 3,
+    "constituency": null,
+    "county": 41
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 112,
+  "fields": {
+    "name": "Tom Ojienda",
+    "party": "ODM",
+    "position": 3,
+    "constituency": null,
+    "county": 42
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 113,
+  "fields": {
+    "name": "Moses Kajwang’",
+    "party": "ODM",
+    "position": 3,
+    "constituency": null,
+    "county": 43
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 114,
+  "fields": {
+    "name": "Eddy Oketch",
+    "party": "ODM",
+    "position": 3,
+    "constituency": null,
+    "county": 44
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 115,
+  "fields": {
+    "name": "Richard Onyonka",
+    "party": "ODM",
+    "position": 3,
+    "constituency": null,
+    "county": 45
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 116,
+  "fields": {
+    "name": "Okong’o Omogeni",
+    "party": "ODM",
+    "position": 3,
+    "constituency": null,
+    "county": 46
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 118,
+  "fields": {
+    "name": "Mwenda Gataya",
+    "party": "UDA",
+    "position": 3,
+    "constituency": null,
+    "county": 13
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 119,
+  "fields": {
+    "name": "Joe Nyutu",
+    "party": "UDA",
+    "position": 3,
+    "constituency": null,
+    "county": 21
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 120,
+  "fields": {
+    "name": "Kipchumba Murkomen",
+    "party": "UDA",
+    "position": 3,
+    "constituency": null,
+    "county": 28
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 121,
+  "fields": {
+    "name": "Zamzam Mohamed",
+    "party": "ODM",
+    "position": 4,
+    "constituency": null,
+    "county": 1
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 122,
+  "fields": {
+    "name": "Fatuma Masito",
+    "party": "ODM",
+    "position": 4,
+    "constituency": null,
+    "county": 2
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 123,
+  "fields": {
+    "name": "Gertrude Mwanyanje",
+    "party": "ODM",
+    "position": 4,
+    "constituency": null,
+    "county": 3
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 124,
+  "fields": {
+    "name": "Amina Dika",
+    "party": "KANU",
+    "position": 4,
+    "constituency": null,
+    "county": 4
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 125,
+  "fields": {
+    "name": "Muthoni Marubu",
+    "party": "JP",
+    "position": 4,
+    "constituency": null,
+    "county": 5
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 126,
+  "fields": {
+    "name": "Edo Udgoon Siyad",
+    "party": "Jubilee",
+    "position": 4,
+    "constituency": null,
+    "county": 7
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 127,
+  "fields": {
+    "name": "Fatuma Abdi Jehow",
+    "party": "ODM",
+    "position": 4,
+    "constituency": null,
+    "county": 8
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 128,
+  "fields": {
+    "name": "Ummul Kheir Khassim",
+    "party": "UDM",
+    "position": 4,
+    "constituency": null,
+    "county": 9
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 129,
+  "fields": {
+    "name": "Naomi Waqo",
+    "party": "UDA",
+    "position": 4,
+    "constituency": null,
+    "county": 10
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 130,
+  "fields": {
+    "name": "Mumina Gollo Bonaya",
+    "party": "Jubilee",
+    "position": 4,
+    "constituency": null,
+    "county": 11
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 131,
+  "fields": {
+    "name": "Elizabeth Kailemia Karambu",
+    "party": "UDA",
+    "position": 4,
+    "constituency": null,
+    "county": 12
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 132,
+  "fields": {
+    "name": "Susan Ngugi",
+    "party": "TSP",
+    "position": 4,
+    "constituency": null,
+    "county": 13
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 133,
+  "fields": {
+    "name": "Pamela Njeru",
+    "party": "UDA",
+    "position": 4,
+    "constituency": null,
+    "county": 14
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 134,
+  "fields": {
+    "name": "Irene Kasalu",
+    "party": "Wiper",
+    "position": 4,
+    "constituency": null,
+    "county": 15
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 135,
+  "fields": {
+    "name": "Joyce Kamene Kasimbi",
+    "party": "Wiper",
+    "position": 4,
+    "constituency": null,
+    "county": 16
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 136,
+  "fields": {
+    "name": "Rose Museo",
+    "party": "Wiper",
+    "position": 4,
+    "constituency": null,
+    "county": 17
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 137,
+  "fields": {
+    "name": "Faith Gitau",
+    "party": "UDA",
+    "position": 4,
+    "constituency": null,
+    "county": 18
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 138,
+  "fields": {
+    "name": "Rahab Mukami",
+    "party": "UDA",
+    "position": 4,
+    "constituency": null,
+    "county": 19
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 139,
+  "fields": {
+    "name": "Jane Njeri Maina",
+    "party": "UDA",
+    "position": 4,
+    "constituency": null,
+    "county": 20
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 140,
+  "fields": {
+    "name": "Anne Wamuratha",
+    "party": "UDA",
+    "position": 4,
+    "constituency": null,
+    "county": 22
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 141,
+  "fields": {
+    "name": "Cecilia Asinyen",
+    "party": "UDA",
+    "position": 4,
+    "constituency": null,
+    "county": 23
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 142,
+  "fields": {
+    "name": "Rael Aleutum",
+    "party": "KUP",
+    "position": 4,
+    "constituency": null,
+    "county": 24
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 143,
+  "fields": {
+    "name": "Pauline Lenguris",
+    "party": "UDA",
+    "position": 4,
+    "constituency": null,
+    "county": 25
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 144,
+  "fields": {
+    "name": "Lillian Siyoi",
+    "party": "UDA",
+    "position": 4,
+    "constituency": null,
+    "county": 26
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 145,
+  "fields": {
+    "name": "Gladys Boss Shollei",
+    "party": "UDA",
+    "position": 4,
+    "constituency": null,
+    "county": 27
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 146,
+  "fields": {
+    "name": "Caroline Jeptoo Ngelechei",
+    "party": "Independent",
+    "position": 4,
+    "constituency": null,
+    "county": 28
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 147,
+  "fields": {
+    "name": "Cynthia Muge",
+    "party": "UDA",
+    "position": 4,
+    "constituency": null,
+    "county": 29
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 148,
+  "fields": {
+    "name": "Florence Sergon",
+    "party": "UDA",
+    "position": 4,
+    "constituency": null,
+    "county": 30
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 149,
+  "fields": {
+    "name": "Jane Kagiri",
+    "party": "UDA",
+    "position": 4,
+    "constituency": null,
+    "county": 31
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 150,
+  "fields": {
+    "name": "Liza Chelule",
+    "party": "UDA",
+    "position": 4,
+    "constituency": null,
+    "county": 32
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 151,
+  "fields": {
+    "name": "Rebecca Tonkei",
+    "party": "UDA",
+    "position": 4,
+    "constituency": null,
+    "county": 33
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 152,
+  "fields": {
+    "name": "Leah Sopiato",
+    "party": "UDA",
+    "position": 4,
+    "constituency": null,
+    "county": 34
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 153,
+  "fields": {
+    "name": "Beatrice Kemei",
+    "party": "UDA",
+    "position": 4,
+    "constituency": null,
+    "county": 35
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 154,
+  "fields": {
+    "name": "Linet Toto",
+    "party": "UDA",
+    "position": 4,
+    "constituency": null,
+    "county": 36
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 155,
+  "fields": {
+    "name": "Elsie Muhanda",
+    "party": "ODM",
+    "position": 4,
+    "constituency": null,
+    "county": 37
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 156,
+  "fields": {
+    "name": "Beatrice Adagala",
+    "party": "ANC",
+    "position": 4,
+    "constituency": null,
+    "county": 38
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 157,
+  "fields": {
+    "name": "Catherine Wambilianga",
+    "party": "FORD-Kenya",
+    "position": 4,
+    "constituency": null,
+    "county": 39
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 158,
+  "fields": {
+    "name": "Catherine Omanyo",
+    "party": "ODM",
+    "position": 4,
+    "constituency": null,
+    "county": 40
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 159,
+  "fields": {
+    "name": "Christine Ombaka",
+    "party": "ODM",
+    "position": 4,
+    "constituency": null,
+    "county": 41
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 160,
+  "fields": {
+    "name": "Ruth Odinga",
+    "party": "ODM",
+    "position": 4,
+    "constituency": null,
+    "county": 42
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 161,
+  "fields": {
+    "name": "Joyce Osogo",
+    "party": "ODM",
+    "position": 4,
+    "constituency": null,
+    "county": 43
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 162,
+  "fields": {
+    "name": "Fatuma Mohamed",
+    "party": "Independent",
+    "position": 4,
+    "constituency": null,
+    "county": 44
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 163,
+  "fields": {
+    "name": "Dorice Aburi",
+    "party": "Wiper",
+    "position": 4,
+    "constituency": null,
+    "county": 45
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 164,
+  "fields": {
+    "name": "Jerusha Momanyi",
+    "party": "Jubilee",
+    "position": 4,
+    "constituency": null,
+    "county": 46
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 165,
+  "fields": {
+    "name": "Betty Maina",
+    "party": "UDA",
+    "position": 4,
+    "constituency": null,
+    "county": 21
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 166,
+  "fields": {
+    "name": "Francis Thoya Foleni",
+    "party": null,
+    "position": 2,
+    "constituency": null,
+    "county": 1
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 167,
+  "fields": {
+    "name": "Josphat Chirema Kombo",
+    "party": null,
+    "position": 2,
+    "constituency": null,
+    "county": 2
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 168,
+  "fields": {
+    "name": "Flora Mbetsa Chibule",
+    "party": null,
+    "position": 2,
+    "constituency": null,
+    "county": 3
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 169,
+  "fields": {
+    "name": "Mahadh Ali Loka",
+    "party": null,
+    "position": 2,
+    "constituency": null,
+    "county": 4
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 170,
+  "fields": {
+    "name": "Raphael Munyua Ndung’u",
+    "party": null,
+    "position": 2,
+    "constituency": null,
+    "county": 5
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 171,
+  "fields": {
+    "name": "Abdi Dagane Muhumed",
+    "party": null,
+    "position": 2,
+    "constituency": null,
+    "county": 7
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 172,
+  "fields": {
+    "name": "Ahmed Muhumed Abdi",
+    "party": null,
+    "position": 2,
+    "constituency": null,
+    "county": 8
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 173,
+  "fields": {
+    "name": "Ali Maalim Mohamud",
+    "party": null,
+    "position": 2,
+    "constituency": null,
+    "county": 9
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 174,
+  "fields": {
+    "name": "Solomon Gubo Riwe",
+    "party": null,
+    "position": 2,
+    "constituency": null,
+    "county": 10
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 175,
+  "fields": {
+    "name": "Dr. James Lowasa",
+    "party": null,
+    "position": 2,
+    "constituency": null,
+    "county": 11
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 176,
+  "fields": {
+    "name": "Mutuma Isaac M’ethingia",
+    "party": null,
+    "position": 2,
+    "constituency": null,
+    "county": 12
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 177,
+  "fields": {
+    "name": "Justus Kinyua Mugo",
+    "party": null,
+    "position": 2,
+    "constituency": null,
+    "county": 14
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 178,
+  "fields": {
+    "name": "Augustine Wambua Kanani",
+    "party": null,
+    "position": 2,
+    "constituency": null,
+    "county": 15
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 179,
+  "fields": {
+    "name": "Francis Mwangangi",
+    "party": null,
+    "position": 2,
+    "constituency": null,
+    "county": 16
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 180,
+  "fields": {
+    "name": "Lucy Mulili",
+    "party": null,
+    "position": 2,
+    "constituency": null,
+    "county": 17
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 181,
+  "fields": {
+    "name": "John Mathara Mwangi",
+    "party": null,
+    "position": 2,
+    "constituency": null,
+    "county": 18
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 182,
+  "fields": {
+    "name": "David Kinaniri Waroe Mwangi",
+    "party": null,
+    "position": 2,
+    "constituency": null,
+    "county": 19
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 183,
+  "fields": {
+    "name": "David Githanda Wachira",
+    "party": null,
+    "position": 2,
+    "constituency": null,
+    "county": 20
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 184,
+  "fields": {
+    "name": "Rosemary Njeri Kirika",
+    "party": null,
+    "position": 2,
+    "constituency": null,
+    "county": 22
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 185,
+  "fields": {
+    "name": "John Erus Lopeyok",
+    "party": null,
+    "position": 2,
+    "constituency": null,
+    "county": 23
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 186,
+  "fields": {
+    "name": "Robert Achaule Komole",
+    "party": null,
+    "position": 2,
+    "constituency": null,
+    "county": 24
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 187,
+  "fields": {
+    "name": "Gabriel Samia Lenengwesi",
+    "party": null,
+    "position": 2,
+    "constituency": null,
+    "county": 25
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 188,
+  "fields": {
+    "name": "Philomenah Bineah",
+    "party": null,
+    "position": 2,
+    "constituency": null,
+    "county": 26
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 189,
+  "fields": {
+    "name": "John Barorot",
+    "party": null,
+    "position": 2,
+    "constituency": null,
+    "county": 27
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 190,
+  "fields": {
+    "name": "Yulita Mitei Chebotip",
+    "party": null,
+    "position": 2,
+    "constituency": null,
+    "county": 29
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 191,
+  "fields": {
+    "name": "Charles Kipng’ok (Kipngok)",
+    "party": null,
+    "position": 2,
+    "constituency": null,
+    "county": 30
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 192,
+  "fields": {
+    "name": "Reuben Kamuri Ngatia",
+    "party": null,
+    "position": 2,
+    "constituency": null,
+    "county": 31
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 193,
+  "fields": {
+    "name": "David Kones",
+    "party": null,
+    "position": 2,
+    "constituency": null,
+    "county": 32
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 194,
+  "fields": {
+    "name": "Kiprono Koech Tamalinye",
+    "party": null,
+    "position": 2,
+    "constituency": null,
+    "county": 33
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 195,
+  "fields": {
+    "name": "Martin Moshisho",
+    "party": null,
+    "position": 2,
+    "constituency": null,
+    "county": 34
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 196,
+  "fields": {
+    "name": "Fredrick Kipng’etich Kirui",
+    "party": null,
+    "position": 2,
+    "constituency": null,
+    "county": 35
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 197,
+  "fields": {
+    "name": "David Shadrack Rotich",
+    "party": null,
+    "position": 2,
+    "constituency": null,
+    "county": 36
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 198,
+  "fields": {
+    "name": "Ayub Savula",
+    "party": null,
+    "position": 2,
+    "constituency": null,
+    "county": 37
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 199,
+  "fields": {
+    "name": "Wilberforce Kitiezo Gwadoya",
+    "party": null,
+    "position": 2,
+    "constituency": null,
+    "county": 38
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 200,
+  "fields": {
+    "name": "Janepher Chemtai Mbatiany",
+    "party": null,
+    "position": 2,
+    "constituency": null,
+    "county": 39
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 201,
+  "fields": {
+    "name": "Arthur Odera",
+    "party": null,
+    "position": 2,
+    "constituency": null,
+    "county": 40
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 202,
+  "fields": {
+    "name": "William Odhiambo Oduol",
+    "party": null,
+    "position": 2,
+    "constituency": null,
+    "county": 41
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 203,
+  "fields": {
+    "name": "Mathew Ochieng Owili",
+    "party": null,
+    "position": 2,
+    "constituency": null,
+    "county": 42
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 204,
+  "fields": {
+    "name": "Joseph Oyugi Magwanga",
+    "party": null,
+    "position": 2,
+    "constituency": null,
+    "county": 43
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 205,
+  "fields": {
+    "name": "Joseph Gimunta Mahiri",
+    "party": null,
+    "position": 2,
+    "constituency": null,
+    "county": 44
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 206,
+  "fields": {
+    "name": "Robert Onsare Monda",
+    "party": null,
+    "position": 2,
+    "constituency": null,
+    "county": 45
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 207,
+  "fields": {
+    "name": "James Ondicho Gesami",
+    "party": null,
+    "position": 2,
+    "constituency": null,
+    "county": 46
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 208,
+  "fields": {
+    "name": "Grace Jerutich Cheserek",
+    "party": null,
+    "position": 2,
+    "constituency": null,
+    "county": 28
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 209,
+  "fields": {
+    "name": "Stephen Mburu Munania",
+    "party": null,
+    "position": 2,
+    "constituency": null,
+    "county": 21
+  }
+},
+{
+  "model": "kyl.leader",
+  "pk": 210,
+  "fields": {
+    "name": "Muisrael Nyagah Derebia",
+    "party": null,
+    "position": 2,
+    "constituency": null,
+    "county": 13
+  }
+},
+{
+  "model": "kyl.role",
+  "pk": 1,
+  "fields": {
+    "position": 6,
+    "description": "The President serves as the Commander-in-Chief of the Kenya Defence Forces and chairs the National Security Council.",
+    "title": "Commander-in-Chief of the Defence Forces"
+  }
+},
+{
+  "model": "kyl.role",
+  "pk": 2,
+  "fields": {
+    "position": 6,
+    "description": "The President is the Head of State and Government and the symbol of national unity.",
+    "title": "Head of State and Government"
+  }
+},
+{
+  "model": "kyl.role",
+  "pk": 3,
+  "fields": {
+    "position": 6,
+    "description": "The President must respect, uphold, and safeguard the Constitution of Kenya 2010.",
+    "title": "Uphold and Safeguard the Constitution"
+  }
+},
+{
+  "model": "kyl.role",
+  "pk": 4,
+  "fields": {
+    "position": 6,
+    "description": "The President must promote and enhance the unity of the nation and respect the diversity of the people.",
+    "title": "Promote Unity of the Nation"
+  }
+},
+{
+  "model": "kyl.role",
+  "pk": 5,
+  "fields": {
+    "position": 6,
+    "description": "The President ensures the protection of human rights and fundamental freedoms as provided in the Constitution.",
+    "title": "Protect Human Rights and Freedoms"
+  }
+},
+{
+  "model": "kyl.role",
+  "pk": 6,
+  "fields": {
+    "position": 6,
+    "description": "The President ensures the sovereignty, independence, and territorial integrity of Kenya is safeguarded.",
+    "title": "Protect Sovereignty of the Republic"
+  }
+},
+{
+  "model": "kyl.role",
+  "pk": 7,
+  "fields": {
+    "position": 6,
+    "description": "The President addresses Parliament at the opening of each new session and submits annual reports on the state of the nation.",
+    "title": "Address Parliament"
+  }
+},
+{
+  "model": "kyl.role",
+  "pk": 8,
+  "fields": {
+    "position": 6,
+    "description": "The President nominates, appoints, or dismisses State and public officers as provided by the Constitution.",
+    "title": "Appoint Public Officers"
+  }
+},
+{
+  "model": "kyl.role",
+  "pk": 9,
+  "fields": {
+    "position": 6,
+    "description": "The President conducts and coordinates Kenya’s foreign relations and receives foreign diplomatic representatives.",
+    "title": "Conduct Foreign Policy"
+  }
+},
+{
+  "model": "kyl.role",
+  "pk": 10,
+  "fields": {
+    "position": 6,
+    "description": "The President, with approval of Parliament, may declare war or a state of emergency.",
+    "title": "Declare War or Emergency"
+  }
+},
+{
+  "model": "kyl.role",
+  "pk": 11,
+  "fields": {
+    "position": 6,
+    "description": "The President confers honours in the name of the people and the Republic.",
+    "title": "Confer Honours"
+  }
+},
+{
+  "model": "kyl.role",
+  "pk": 12,
+  "fields": {
+    "position": 7,
+    "description": "Supports the President in executing government functions and national leadership.",
+    "title": "Assist the President"
+  }
+},
+{
+  "model": "kyl.role",
+  "pk": 13,
+  "fields": {
+    "position": 7,
+    "description": "Assumes presidential duties when the President is absent, incapacitated, or otherwise unable to serve.",
+    "title": "Act as President"
+  }
+},
+{
+  "model": "kyl.role",
+  "pk": 14,
+  "fields": {
+    "position": 7,
+    "description": "Oversees performance of ministries as directed by the President.",
+    "title": "Cabinet Oversight"
+  }
+},
+{
+  "model": "kyl.role",
+  "pk": 15,
+  "fields": {
+    "position": 7,
+    "description": "Coordinates government policies across ministries and departments.",
+    "title": "Policy Coordination"
+  }
+},
+{
+  "model": "kyl.role",
+  "pk": 16,
+  "fields": {
+    "position": 7,
+    "description": "Represents the government in national and international functions when delegated by the President.",
+    "title": "Public Representation"
+  }
+},
+{
+  "model": "kyl.role",
+  "pk": 17,
+  "fields": {
+    "position": 1,
+    "description": "The Governor is the chief executive of the county, responsible for implementing county laws and policies.",
+    "title": "Chief Executive of the County"
+  }
+},
+{
+  "model": "kyl.role",
+  "pk": 18,
+  "fields": {
+    "position": 1,
+    "description": "Chairs the County Executive Committee, appoints members (with assembly approval), and provides leadership in county administration.",
+    "title": "Head of County Executive Committee"
+  }
+},
+{
+  "model": "kyl.role",
+  "pk": 19,
+  "fields": {
+    "position": 1,
+    "description": "Ensures implementation of national and county legislation as provided under the Constitution.",
+    "title": "County Legislation Implementation"
+  }
+},
+{
+  "model": "kyl.role",
+  "pk": 20,
+  "fields": {
+    "position": 1,
+    "description": "Oversees the management and use of county resources for the benefit of residents.",
+    "title": "Management of County Resources"
+  }
+},
+{
+  "model": "kyl.role",
+  "pk": 21,
+  "fields": {
+    "position": 1,
+    "description": "Promotes democracy, good governance, unity, and peace within the county.",
+    "title": "Promotion of Governance"
+  }
+},
+{
+  "model": "kyl.role",
+  "pk": 22,
+  "fields": {
+    "position": 1,
+    "description": "Represents the county in national and international functions as required.",
+    "title": "Representation of the County"
+  }
+},
+{
+  "model": "kyl.role",
+  "pk": 23,
+  "fields": {
+    "position": 1,
+    "description": "Provides regular reports to the county assembly on matters of county governance.",
+    "title": "Accountability"
+  }
+},
+{
+  "model": "kyl.role",
+  "pk": 24,
+  "fields": {
+    "position": 2,
+    "description": "The Deputy Governor is the principal assistant of the Governor in executing county functions and may represent the Governor when delegated.",
+    "title": "Principal Assistant to the Governor"
+  }
+},
+{
+  "model": "kyl.role",
+  "pk": 25,
+  "fields": {
+    "position": 2,
+    "description": "If the Governor dies, resigns, is impeached, or is otherwise permanently incapacitated, the Deputy Governor assumes the office of Governor for the remainder of the term.",
+    "title": "Assumption of Office of Governor"
+  }
+},
+{
+  "model": "kyl.role",
+  "pk": 26,
+  "fields": {
+    "position": 2,
+    "description": "When the Governor is temporarily absent, incapacitated, or otherwise unable to act, the Deputy Governor serves as the Acting Governor.",
+    "title": "Acting Governor"
+  }
+},
+{
+  "model": "kyl.role",
+  "pk": 27,
+  "fields": {
+    "position": 2,
+    "description": "Supports the Governor in coordinating and supervising county executive functions, ensuring smooth running of county government.",
+    "title": "Collaboration with County Executive"
+  }
+},
+{
+  "model": "kyl.role",
+  "pk": 28,
+  "fields": {
+    "position": 3,
+    "description": "Senators represent and protect the interests of the counties and their governments in the national arena.",
+    "title": "Representation of Counties"
+  }
+},
+{
+  "model": "kyl.role",
+  "pk": 29,
+  "fields": {
+    "position": 3,
+    "description": "Senators participate in the passing of laws, especially those affecting counties.",
+    "title": "Participation in Law-making"
+  }
+},
+{
+  "model": "kyl.role",
+  "pk": 30,
+  "fields": {
+    "position": 3,
+    "description": "Senators determine how national revenue is shared among the 47 counties.",
+    "title": "Allocation of National Revenue"
+  }
+},
+{
+  "model": "kyl.role",
+  "pk": 31,
+  "fields": {
+    "position": 3,
+    "description": "Senators oversee how county governments utilize national revenue allocated to them.",
+    "title": "Oversight of Revenue Allocation"
+  }
+},
+{
+  "model": "kyl.role",
+  "pk": 32,
+  "fields": {
+    "position": 3,
+    "description": "Senators determine the outcome of impeachment proceedings against Governors.",
+    "title": "Impeachment Role"
+  }
+},
+{
+  "model": "kyl.role",
+  "pk": 33,
+  "fields": {
+    "position": 5,
+    "description": "MPs represent the people of their constituencies in the National Assembly, ensuring that their interests are considered in national debates and decisions.",
+    "title": "Representation"
+  }
+},
+{
+  "model": "kyl.role",
+  "pk": 34,
+  "fields": {
+    "position": 5,
+    "description": "MPs participate in law-making by debating, amending, and passing Bills that affect the country.",
+    "title": "Legislation"
+  }
+},
+{
+  "model": "kyl.role",
+  "pk": 35,
+  "fields": {
+    "position": 5,
+    "description": "MPs oversee the actions of the Executive by scrutinizing policies, budgets, and government operations to ensure accountability and transparency.",
+    "title": "Oversight"
+  }
+},
+{
+  "model": "kyl.role",
+  "pk": 36,
+  "fields": {
+    "position": 5,
+    "description": "MPs play a key role in discussing, amending, and approving the national budget and allocation of public resources.",
+    "title": "Budget Approval"
+  }
+},
+{
+  "model": "kyl.role",
+  "pk": 37,
+  "fields": {
+    "position": 5,
+    "description": "MPs manage the Constituency Development Fund (CDF) and initiate projects that directly benefit their constituents.",
+    "title": "Constituency Development"
+  }
+},
+{
+  "model": "kyl.role",
+  "pk": 38,
+  "fields": {
+    "position": 8,
+    "description": "Represent the residents of their electoral ward in the county assembly.",
+    "title": "Representation of the Ward"
+  }
+},
+{
+  "model": "kyl.role",
+  "pk": 39,
+  "fields": {
+    "position": 8,
+    "description": "Participate in making laws at the county level, particularly those that affect the county and ward residents.",
+    "title": "Legislation"
+  }
+},
+{
+  "model": "kyl.role",
+  "pk": 40,
+  "fields": {
+    "position": 8,
+    "description": "Provide oversight over the County Executive Committee and ensure county resources are used responsibly.",
+    "title": "Oversight"
+  }
+},
+{
+  "model": "kyl.role",
+  "pk": 41,
+  "fields": {
+    "position": 8,
+    "description": "Approve budgets and development plans of the county government, ensuring that local priorities are addressed.",
+    "title": "Budget Approval"
+  }
+},
+{
+  "model": "kyl.role",
+  "pk": 42,
+  "fields": {
+    "position": 8,
+    "description": "Push for development initiatives and allocation of county resources in their respective wards.",
+    "title": "Development Representation"
+  }
+},
+{
+  "model": "kyl.role",
+  "pk": 43,
+  "fields": {
+    "position": 8,
+    "description": "Remain accountable to the electorate by holding regular consultative meetings and maintaining transparency.",
+    "title": "Accountability to the People"
+  }
+},
+{
+  "model": "kyl.role",
+  "pk": 44,
+  "fields": {
+    "position": 4,
+    "description": "Articulate and champion issues affecting women, children, and other vulnerable groups at the National Assembly level.",
+    "title": "Representation of Women Interests"
+  }
+},
+{
+  "model": "kyl.role",
+  "pk": 45,
+  "fields": {
+    "position": 4,
+    "description": "Participate in law-making processes by debating and voting on bills and motions in the National Assembly.",
+    "title": "Legislative Role"
+  }
+},
+{
+  "model": "kyl.role",
+  "pk": 46,
+  "fields": {
+    "position": 4,
+    "description": "Monitor and oversee the use of public resources by the national government, particularly on matters affecting women and marginalized groups.",
+    "title": "Oversight"
+  }
+},
+{
+  "model": "kyl.role",
+  "pk": 47,
+  "fields": {
+    "position": 4,
+    "description": "Promote gender equality and inclusion in political, economic, and social development within counties and nationally.",
+    "title": "Promoting Gender Equality"
+  }
+},
+{
+  "model": "kyl.role",
+  "pk": 48,
+  "fields": {
+    "position": 4,
+    "description": "Ensure representation of marginalized and special interest groups as mandated by the Constitution.",
+    "title": "Special Interest Representation"
+  }
+},
+{
+  "model": "kyl.role",
+  "pk": 49,
+  "fields": {
+    "position": 4,
+    "description": "Engage with county residents to bring their views, petitions, and concerns to the National Assembly.",
+    "title": "Constituency Engagement"
+  }
+}
+]

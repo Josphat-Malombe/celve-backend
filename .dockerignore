@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.log
+*.pot
+*.py~
+*.swp
+*.swo
+*.egg-info/
+staticfiles/
+media/
+.env
