@@ -15,4 +15,4 @@ python manage.py collectstatic --noinput
 python manage.py migrate
 
 # Load fixtures (to maintain data!)
-python manage.py loaddata initial_data.json || true
+#python manage.py loaddata initial_data.json || true
