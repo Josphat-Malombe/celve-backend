@@ -3,8 +3,7 @@
 from django.db import migrations
 
 def create_admin_user(apps, schema_editor):
-    User = apps.get_model("core", "User")  # if you use default Django User
-    # If you have a custom user model, replace with your app name and model
+    User = apps.get_model("core", "User")  
     if not User.objects.filter(username="admin").exists():
         User.objects.create_superuser(
             username="admin",

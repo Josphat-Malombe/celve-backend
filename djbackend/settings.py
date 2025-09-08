@@ -46,6 +46,7 @@ ALLOWED_HOSTS = [
 
 INSTALLED_APPS = [
     'corsheaders',
+    'jazzmin',
     "django.contrib.admin",
     "django.contrib.auth",
     "django.contrib.contenttypes",
@@ -191,3 +192,27 @@ SIMPLE_JWT.update({
 
 MEDIA_URL = '/media/'
 MEDIA_ROOT = BASE_DIR / 'media'  
+
+
+
+JAZZMIN_SETTINGS = {
+    "site_title": "Celve Admin",
+    "site_header": "Celve Dashboard",
+    "site_brand": "Celve Platform",
+    "welcome_sign": "Welcome to Celve Admin",
+    "copyright": "Celve © 2025",
+    "search_model": "auth.User",  #
+
+    "topmenu_links": [
+        {"name": "Home", "url": "admin:index", "permissions": ["auth.view_user"]},
+        {"name": "Docs", "url": "https://docs.djangoproject.com/en/5.0/"},
+    ],
+
+    "icons": {
+        "auth.User": "fas fa-user",
+        "auth.Group": "fas fa-users",
+        "core.YourModel": "fas fa-database",
+    },
+
+    "show_ui_builder": True,  
+}
